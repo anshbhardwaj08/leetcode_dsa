@@ -13,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 | [0792-binary-search](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0792-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
