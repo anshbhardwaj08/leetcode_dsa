@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
