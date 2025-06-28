@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
