@@ -74,19 +74,11 @@ public:
             if(list2==NULL) break;
         }
         if(list1==NULL){
-                while(list2!=NULL){
-                    temp->next=new ListNode(list2->val);
-                    list2=list2->next;
-                    temp=temp->next;
-                }
+            temp->next=list2;
             }
-            if(list2==NULL){
-                while(list1!=NULL){
-                    temp->next=new ListNode(list1->val);
-                    list1=list1->next;
-                    temp=temp->next;
-                }
-            }
+        if(list2==NULL){
+            temp->next=list1;
+        }
         return list3;
     }
 };
