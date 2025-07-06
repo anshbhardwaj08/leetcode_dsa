@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
