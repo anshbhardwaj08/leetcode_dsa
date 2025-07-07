@@ -125,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
