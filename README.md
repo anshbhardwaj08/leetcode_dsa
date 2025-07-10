@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
+| [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
