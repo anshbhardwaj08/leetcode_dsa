@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
