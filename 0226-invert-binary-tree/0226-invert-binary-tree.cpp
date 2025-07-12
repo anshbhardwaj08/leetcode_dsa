@@ -14,12 +14,12 @@ public:
 
     void helper(TreeNode* temp, TreeNode* root){
         if(root->left==NULL && root->right==NULL) return ;
-        if(root->right==NULL){
-            temp->left=NULL;
-        }
-        if(root->left==NULL){
-            temp->right=NULL;
-        }
+        // if(root->right==NULL){
+        //     temp->left=NULL;
+        // }
+        // if(root->left==NULL){
+        //     temp->right=NULL;
+        // }
         if(root->right!=NULL) {
             temp->left=new TreeNode(root->right->val);
             helper(temp->left,root->right);
