@@ -5,7 +5,8 @@ public:
     void helper(TreeNode* root,string s, vector<string>&ans){
         if(root==NULL) return ;
         string a=to_string(root->val);
-        if(root->left==NULL && root->right==NULL){
+        
+        if(root->left==NULL && root->right==NULL){ // to know whether it is a leaf node or not;
             s=s+a;
             ans.push_back(s);
             return ;
