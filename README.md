@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Design
 |  |
 | ------- |
@@ -261,5 +263,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
