@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
+| [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
