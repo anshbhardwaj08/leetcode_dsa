@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
