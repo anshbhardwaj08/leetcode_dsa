@@ -13,13 +13,13 @@ public:
         while (!isPrime(n)) {
             int sum = 0;
             int x = n;
-            for (int i = 2; i <= sqrt(x); i++) {
+            for (int i = 2; i <= n; i++) {
                 while (n % i == 0) {
                     sum += i;
                     n /= i;
                 }
             }
-            if (n > 1) sum += n; // add the remaining prime
+            // if (n > 1) sum += n; // add the remaining prime
             n = sum;
         }
         return n;
