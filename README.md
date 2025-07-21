@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
