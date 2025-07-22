@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
