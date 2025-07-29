@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
