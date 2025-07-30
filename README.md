@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0860-design-circular-queue) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Tree
 |  |
 | ------- |
