@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0792-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
