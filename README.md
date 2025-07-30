@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
