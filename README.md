@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
