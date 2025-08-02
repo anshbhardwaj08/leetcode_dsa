@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0143-reorder-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0229-majority-element-ii) |
