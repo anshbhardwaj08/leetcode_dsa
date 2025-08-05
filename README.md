@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
