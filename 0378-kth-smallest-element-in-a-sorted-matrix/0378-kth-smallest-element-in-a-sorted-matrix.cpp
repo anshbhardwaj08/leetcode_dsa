@@ -5,7 +5,7 @@ public:
 
         // Push all elements into the min-heap
         for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0; j < matrix[0].size(); j++) {
+            for (int j = 0; j < matrix[i].size(); j++) {
                 minHeap.push(matrix[i][j]);
                 if(minHeap.size()>k){
                     minHeap.pop();
