@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0263-ugly-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
