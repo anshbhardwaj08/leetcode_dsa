@@ -4,7 +4,7 @@ public:
         typedef pair<int ,char>pi;
         priority_queue<pi>pq;
         unordered_map<char ,int>m;
-        for(unsigned char a: s){
+        for(char a: s){
             
             m[a]++;
         }
