@@ -17,15 +17,15 @@ public:
         string ans="";
         while(pq.size()!=0){
             int n=pq.top().first;
-            int m=pq.top().second;
-            ans.append(n,m);
-            pq.pop();
-            // while(n!=0){
-            //     ans+=pq.top().second;
-            //     n--;
+            char m=pq.top().second;
+            // ans.append(n,m);
+            // pq.pop();
+            while(n!=0){
+                ans+=m;
+                n--;
                 
-            // }
-            // if(n==0) pq.pop();
+            }
+            if(n==0) pq.pop();
             
         }
         return ans;
