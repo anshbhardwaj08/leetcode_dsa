@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0507-perfect-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 ## Merge Sort
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
 ## Queue
 |  |
