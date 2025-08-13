@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0231-power-of-two) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
