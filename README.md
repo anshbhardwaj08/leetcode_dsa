@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0141-linked-list-cycle) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
