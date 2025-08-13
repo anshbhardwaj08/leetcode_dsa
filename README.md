@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
