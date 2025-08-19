@@ -4,21 +4,17 @@ public:
         int n=nums.size();
         int i=0;
         int count=0;
-        while(i<n){
-            int j=i;
-            int product=1;
-            while(j<n){
-                product=product*nums[j];
-                if(product<k){
-                    count++;
-                    j++;
-                }
-                else{
-                    break;
-                }
-
+        int product=1;
+        int j=0;
+        while(j<n){// expanding the window 
+            product=product*nums[j];
+            while(i<=j && product>=k){
+                product=product/nums[i];
+                i++;
             }
-            i++;
+            count=count+(j-i+1);
+
+            j++;
         }
         return count;
     }
