@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1138-grumpy-bookstore-owner) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Linked List
 |  |
