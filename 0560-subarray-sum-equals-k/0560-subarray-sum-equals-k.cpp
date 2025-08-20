@@ -29,7 +29,6 @@ public:
             }
             s[nums[i]]++;
         }
-        return count;    
-
+        return count; 
     }
 };
