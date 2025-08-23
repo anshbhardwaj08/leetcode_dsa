@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Linked List
 |  |
 | ------- |
