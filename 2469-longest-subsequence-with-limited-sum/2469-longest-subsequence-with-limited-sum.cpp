@@ -3,50 +3,33 @@ public:
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries) {
         int n=nums.size();
         int m=queries.size();
+        vector<int>ans(m,0);
         sort(nums.begin(),nums.end());
-        int k=1;
-        while(k<n){
-            nums[k]=nums[k]+nums[k-1];
-            k++;
+        for(int i=1;i<n;i++){
+            nums[i]+=nums[i-1];
         }
-        vector<int>answer;
-
-        // for(int i=0;i<m;i++){
-        //     int len=0;
-        //     for(int j=0;j<n;j++){
-        //         if(nums[j]>queries[i]) break;
-        //         else{
-        //             len++;
-        //         }
-        //     }
-        //     answer.push_back(len);
-        // }
- 
-        int i=0;
         
         
-        while(i<m){
-            int size=0;
-            int j=0;
-            while(j<n){
-                if(nums[j]>queries[i]){
-                    
-                    break;
-
-                } 
-                else{
-                    size++;
-                    
+        for(int i=0;i<m;i++){
+            int hi=n-1;
+            int lo=0;
+            
+            int len=0;
+            while(lo<=hi){
+                int mid=lo+(hi-lo)/2;
+                if(nums[mid]>queries[i]){
+                    hi=mid-1;
                 }
-                j++;
-                
+                else{
+                    len=mid+1;
+                    lo=mid+1;
+                }
+
                 
             }
-            answer.push_back(size);
             
-            i++;
+            ans[i]=len;
         }
-
-        return answer;
+        return ans;
     }
 };
