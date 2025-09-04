@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0792-binary-search) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
