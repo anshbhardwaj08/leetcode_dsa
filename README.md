@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0054-spiral-matrix) |
