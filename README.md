@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
