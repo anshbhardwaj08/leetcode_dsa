@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
 ## Matrix
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
+| [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
