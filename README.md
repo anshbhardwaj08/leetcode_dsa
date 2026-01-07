@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
