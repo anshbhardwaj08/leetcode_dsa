@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
