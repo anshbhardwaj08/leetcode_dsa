@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
@@ -647,10 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
