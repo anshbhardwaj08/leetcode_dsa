@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1127-last-stone-weight) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -647,9 +651,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
