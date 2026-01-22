@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0841-keys-and-rooms) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
