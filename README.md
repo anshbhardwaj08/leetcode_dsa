@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
