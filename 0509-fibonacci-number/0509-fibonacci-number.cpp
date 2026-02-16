@@ -1,17 +1,18 @@
 class Solution {
 public:
-    int fibo(vector<int>& dp,int n){
+    int fib(int n) {
+        vector<int>dp(n+1,0);// this is a bottom up approach 
+        // tabulation method 
         if(n<=1){
             return n;
+            
         }
-        if(dp[n]!=-1){
-            return dp[n];
+        dp[0]=0;
+        dp[1]=1;
+        for(int i=2;i<=n;i++){
+                dp[i]=dp[i-1]+dp[i-2];
         }
-        return dp[n]=fibo(dp,n-1)+fibo(dp,n-2);
+        return dp[n];
     }
-    int fib(int n) {
-        vector<int>dp(n+1,-1);
-        int res=fibo(dp,n);
-        return res;
-    }
+    
 };
