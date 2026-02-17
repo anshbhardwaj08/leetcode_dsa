@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0231-power-of-two) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -688,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
