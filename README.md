@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
+| [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Number Theory
 |  |
 | ------- |
