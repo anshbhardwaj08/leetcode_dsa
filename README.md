@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Number Theory
