@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 ## Monotonic Stack
