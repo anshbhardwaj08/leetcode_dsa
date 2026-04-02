@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1025-divisor-game) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
