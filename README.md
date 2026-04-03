@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1025-divisor-game) |
@@ -737,4 +741,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1025-divisor-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
