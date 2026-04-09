@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0733-flood-fill) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
