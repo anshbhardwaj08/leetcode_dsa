@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1777-determine-if-two-strings-are-close) |
