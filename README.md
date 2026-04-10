@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0413-arithmetic-slices](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
