@@ -1,65 +1,41 @@
 class Solution {
 public:
-    bool istrue(string e){
-        int left=0;
-        int right=e.size()-1;
-        while(left<right){
-            if(e[left]!=e[right]){
-                return false;
-            }
-            ++left;
-            --right;
-        }
-        return true;
-    }
     string longestPalindrome(string s) {
-        // if(s=="abcda"){
-        //     return "b";
-        // }
-        if(s.size()==1){
-            return s;
-        }
-        if(s.size()==2){
-            string r=s;
-            reverse(s.begin(),s.end());
-            if(s==r){
-                return s;
-            }
-            else{
-                string p="";
-                return p+r[0];
-            }
-        }
-        unordered_map<int,string>mp;
-        for(int i=0;i<s.size()-1;i++){
-            for(int j=i+1;j<s.size();j++){
-                string a=s.substr(i,s.size()-j+1);
-        
-                
-                int l=a.size();
-                
-                
-                    
-                    if(istrue(a)){
-                        mp[l]=a;
-                    }
-                    
-                    else{
-                        continue;
-                    }
-                
-    
-            }
+        int n = s.size();
+        string t = s;
+        reverse(t.begin(), t.end());
 
-        };
-        int mx=INT_MIN;
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
 
-        for(auto i: mp){
-            mx=max(mx,i.first);
+        int ans = 0;
+        int endPos = 0;
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+
+                if (s[i - 1] == t[j - 1]) {
+                    dp[i][j] = 1 + dp[i - 1][j - 1];
+
+                    int len = dp[i][j];
+
+                    // starting index in original string
+                    int startOriginal = i - len;
+
+                    // corresponding starting index in original string
+                    // from the reversed string side
+                    int startReverse = n - j;
+
+                    // valid only if both starts match
+                    if (startOriginal == startReverse && len > ans) {
+                        ans = len;
+                        endPos = i;
+                    }
+                } else {
+                    dp[i][j] = 0;
+                }
+            }
         }
-        if(mp[mx]==""){
-            return mp[mx]+s[0];
-        }
-        return mp[mx];
+
+        return s.substr(endPos - ans, ans);
     }
 };
