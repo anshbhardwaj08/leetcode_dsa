@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0812-rotate-string) |
