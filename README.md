@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
