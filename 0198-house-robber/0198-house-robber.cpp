@@ -1,22 +1,26 @@
 class Solution {
 public:
-vector<int>dp;
+    vector<int>dp;
     int f(vector<int>& nums, int i){
-        if(i==nums.size()-1){
+        if(i==0){
             return nums[i];
         }
-        if(i==nums.size()-2 ){
-            return max(nums[i],nums[i+1]);
+        if(i<=0){
+            return 0;
         }
         if(dp[i]!=-1){
             return dp[i];
         }
-        return dp[i]=max(nums[i]+f(nums,i+2),0+f(nums,i+1));
+
+
+        return dp[i]=max(f(nums,i-1),nums[i]+f(nums,i-2));
     }
     int rob(vector<int>& nums) {
         dp.clear();
-        dp.resize(105,-1);
-        return f(nums,0);
-
+        
+        int n=nums.size();
+        dp.resize(n+1,-1);
+        int ans=f(nums,n-1);
+        return ans;
     }
 };
