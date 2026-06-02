@@ -26,25 +26,28 @@ public:
         if(target%2!=0){
             return false;
         }
-        dp.clear();
-        dp.resize(nums.size(),vector<bool>(target+1,false));
+        // dp.clear();
+        // dp.resize(nums.size(),vector<bool>(target+1,false));
+        vector<bool>prev(target/2+1,0),cur(target/2+1,0);
         // bool ans=solve(nums,nums.size()-1,target/2);
         // return ans;
-        for(int i=0;i<nums.size();i++){
-            dp[i][0]=true;
-        }
-        dp[0][nums[0]]=true;
+        prev[0]=cur[0]=true;
+        // for(int i=0;i<nums.size();i++){
+        //     dp[i][0]=true;
+        // }
+        // prev[nums[0]]=true;
         for(int i=1;i<nums.size();i++){
             for(int k=1;k<=target/2;k++){
-                bool not_take=dp[i-1][k];
+                bool not_take=prev[k];
                 bool take =false;
                 if(k>=nums[i]){
-                    take=dp[i-1][k-nums[i]];
+                    take=prev[k-nums[i]];
                 }
-                dp[i][k]=take | not_take;
+                cur[k]=take | not_take;
             }
+            prev=cur;
         }
-        return dp[nums.size()-1][target/2];
+        return prev[target/2];
 
     }
 };
