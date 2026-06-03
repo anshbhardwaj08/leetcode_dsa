@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0542-01-matrix) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
