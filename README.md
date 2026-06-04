@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 ## Monotonic Stack
 |  |
