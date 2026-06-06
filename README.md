@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
