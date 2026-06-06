@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2540-minimum-common-value) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
