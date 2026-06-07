@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0556-next-greater-element-iii) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
