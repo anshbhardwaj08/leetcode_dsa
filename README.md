@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
