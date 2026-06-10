@@ -15,12 +15,23 @@ public:
         }
         return dp[ind][prev+1]=max(take,not_take);
     }
-    int lengthOfLIS(vector<int>& nums) {
-        int n=nums.size();
+    int lengthOfLIS(vector<int>& arr) {
+        int n=arr.size();
         dp.clear();
-        dp.resize(n+1,vector<int>(n+1,-1));
-        int ans=f(0,-1,nums);
-        return ans;
+        dp.resize(n+1,vector<int>(n+1,0));
+        dp[n][n]=0;
+        for(int ind =n-1;ind>=0;ind--){
+            for(int prev=ind;prev>=-1;prev--){
+                int not_take=dp[ind+1][prev+1];
+                int take=0;
+                if(prev==-1 || arr[ind]>arr[prev]){
+                    take=1+dp[ind+1][ind+1];
+                }
+                dp[ind][prev+1]=max(take,not_take);
+            }
+        }
+        return dp[0][0];
+        
 
     }
 };
