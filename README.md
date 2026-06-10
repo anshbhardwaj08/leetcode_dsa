@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1127-last-stone-weight) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -878,4 +881,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
