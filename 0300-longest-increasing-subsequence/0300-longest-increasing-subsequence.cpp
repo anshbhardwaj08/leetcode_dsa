@@ -8,11 +8,12 @@ public:
         if(dp[ind][prev+1]!=-1){
             return dp[ind][prev+1];
         }
-        int len=0+f(ind+1,prev,nums);
+        int not_take=0+f(ind+1,prev,nums);
+        int take=0;
         if(prev==-1 || nums[ind]>nums[prev]){
-            len=max(len,1+f(ind+1,ind,nums));
+            take=1+f(ind+1,ind,nums);
         }
-        return dp[ind][prev+1]=len;
+        return dp[ind][prev+1]=max(take,not_take);
     }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
