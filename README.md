@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3379-transformed-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
