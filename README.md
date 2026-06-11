@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2722-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
