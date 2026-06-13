@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
+| [3838-weighted-word-mapping](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
