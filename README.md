@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0880-decoded-string-at-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1078-remove-outermost-parentheses) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0812-rotate-string) |
+| [0880-decoded-string-at-index](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
 | [1078-remove-outermost-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
