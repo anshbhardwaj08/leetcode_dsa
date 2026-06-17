@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3567-convert-date-to-binary](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3567-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
