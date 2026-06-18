@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1025-divisor-game) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1512-number-of-good-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
