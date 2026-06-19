@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2574-left-and-right-sum-differences) |
