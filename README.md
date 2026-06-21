@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1833-maximum-ice-cream-bars](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0891-score-after-flipping-matrix](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0891-score-after-flipping-matrix) |
 | [1285-balance-a-binary-search-tree](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -909,4 +912,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/3691-maximum-total-subarray-value-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
