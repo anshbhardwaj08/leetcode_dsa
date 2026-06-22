@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1189-maximum-number-of-balloons](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1512-number-of-good-pairs) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1512-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshbhardwaj08/leetcode_dsa/tree/master/1777-determine-if-two-strings-are-close) |
