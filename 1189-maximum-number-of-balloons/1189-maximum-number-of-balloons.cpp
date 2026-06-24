@@ -5,7 +5,7 @@ public:
         vector<int>freq(26,0);
         for(int i=0;i<m;i++){
             freq[text[i]-'a']++;
-        }bool flag=true;
+        }
         int b=0;
         int a=0;
         int l=0;
