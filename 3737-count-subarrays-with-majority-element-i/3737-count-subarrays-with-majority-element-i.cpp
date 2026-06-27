@@ -14,8 +14,7 @@ public:
                 if(2*count>size){
                     ans++;
                 }
-                
-
+            
             }
         }
         return ans;
